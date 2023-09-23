@@ -7,6 +7,78 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6680518512772013610}
     m_Modifications:
+    - target: {fileID: 534556222567818511, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 607923192603210780, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1020096330308635574, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1177623329217005974, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1671707980730561017, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2193716311530853149, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2218322205646337236, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2862663187716008160, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3606946972121508714, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3621320350646628391, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3858297271314567070, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5069945363651536839, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5342755575197080792, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5606569926670709113, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5827406386358719255, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5905400977493785783, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5982280717614199633, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048612091842860716, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6340076577324801801, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
       propertyPath: m_Name
       value: TTS_Camo_DigiUrban_Scout
@@ -71,6 +143,34 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 2ac91407e6df1904ab3bf97a464c8a58, type: 2}
+    - target: {fileID: 6412357725591143588, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6564366957580784012, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8646198537628635738, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8768433690148808508, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9097566133060225749, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9156204708801029945, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9173560591637762879, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 53bee79872100804eb29a924bc7fc3fb, type: 3}
 --- !u!1001 &9214101854695450356
@@ -126,7 +226,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2552108190855706847, guid: b50c45aaa4af0ff4786c67232e67998c, type: 3}
       propertyPath: m_Name
-      value: Scout Squad
+      value: Scout
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b50c45aaa4af0ff4786c67232e67998c, type: 3}
